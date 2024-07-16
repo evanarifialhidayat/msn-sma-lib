@@ -1,0 +1,11 @@
+ 
+  __  __ ____  _   _           ____    _    
+ |  \/  / ___|| \ | |         / ___|  / \   
+ | |\/| \___ \|  \| |  _____  \___ \ / _ \  
+ | |  | |___) | |\  | |_____|  ___) / ___ \ 
+ |_|  |_|____/|_| \_|         |____/_/   \_\
+
+
+ ${AnsiColor.RED}Copyright © 2024 - Pt Murni solution nusantara
+ ${AnsiColor.RED}Application Version  : ${application.version}
+ 
